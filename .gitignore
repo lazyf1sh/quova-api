@@ -3,3 +3,5 @@ QuovaApi.sln
 /QuovaApi/bin
 /QuovaApi/obj
 /QuovaApi/Properties
+*.csproj
+.idea/
